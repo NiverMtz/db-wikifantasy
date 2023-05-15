@@ -1,40 +1,56 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "1st post",
-      "datetime": "July 16, 2021 11:47:39 AM",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      "user": "Juanito Pérez",
+      "email": "juanito.perez@gmail.com"
+    }
+  ],
+  "heroes": [
+    {
+      "id": 1,
+      "superhero": "Gandalf",
+      "publisher": "Mago",
+      "alter_ego": "Glamdring, Narya, Wizard Staff",
+      "first_appearance": "A wizard is never late, nor is he early. He arrives precisely when he means to., \"Fool of a Took!\"",
+      "characters": "Glamdring, Narya, Wizard Staff",
+      "alt_img": "https://i.pinimg.com/564x/fa/3f/61/fa3f612a48a9c9b5e43d38818e630091.jpg"
     },
     {
       "id": 2,
-      "title": "Second post",
-      "datetime": "July 16, 2021 11:47:48 AM",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. two"
+      "superhero": "Daenerys Targaryen",
+      "publisher": "Princesa",
+      "alter_ego": "Mother of Dragons",
+      "first_appearance": "\"When my dragons are grown, we will take back what was stolen from me and destroy those who wronged me! ",
+      "characters": "Dragons, Power",
+      "alt_img": "https://i.pinimg.com/564x/85/48/6a/85486a01d8b0acc4be199b4de2f04c5e.jpg"
     },
     {
       "id": 3,
-      "title": "Number Three",
-      "datetime": "July 16, 2021 11:48:01 AM",
-      "body": "Third post... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      "superhero": "Neville Longbottom",
+      "publisher": "Hechicero",
+      "alter_ego": "Neville Longbottom",
+      "first_appearance": "People die every day! ...",
+      "characters": "Magic in Harry Potter",
+      "alt_img": "https://pbs.twimg.com/profile_images/852243705079750656/cjIIBh-a_400x400.jpg"
     },
     {
-      "id": 6,
-      "title": "How to become rich",
-      "datetime": "April 16, 2022 2:56:06 AM",
-      "body": "Stop dreaming - this is the truth you have to believe"
+      "id": 4,
+      "superhero": "Padmé Amidala Naberrie",
+      "publisher": "Noble",
+      "alter_ego": "Padmé",
+      "first_appearance": "admé Amidala Naberrie was a human female senator who represented the people of Naboo during the final years of the Galactic Republic.",
+      "characters": "Naboo Royal Starship, Naboo N-1 Starfighter, Naboo Royal Cruiser",
+      "alt_img": "https://wipy.tv/wp-content/uploads/2020/06/verdadero-nombre-de-la-padme-1200x900.jpg"
     },
     {
-      "id": 8,
-      "title": "how to get visa to Afghanistan",
-      "datetime": "April 16, 2022 2:58:59 AM",
-      "body": "lorem ipsum dolor sit amet"
-    },
-    {
-      "id": 9,
-      "title": "Hello!",
-      "datetime": "April 16, 2022 3:00:38 AM",
-      "body": "Hello World!"
+      "id": 5,
+      "superhero": "Kim Wexler",
+      "publisher": "Otro",
+      "alter_ego": "Kim Wexler",
+      "first_appearance": "Kimberly \"Kim\" Wexler is a fictional character from the television series Better Call Saul, a spin-off of Breaking Bad. Kim is primarily portrayed by Rhea Seehorn, and was created by Vince Gilligan and Peter Gould.",
+      "characters": " University of Colorado Boulder, University of New Mexico School of Law",
+      "alt_img": "https://elfarandi.com/wp-content/uploads/2021/10/Better-Call-Saul-Kim-Finger-Guns-Rhea-Seehorn.webp"
     }
   ]
 }
